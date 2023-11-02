@@ -1,0 +1,44 @@
+body{
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: royalblue;
+}
+
+
+.form-container {
+    width: 500px;
+    height:auto;
+    margin: 50px auto;
+    padding: 80px 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 3px 3px 5px #888888;
+    background-color: white;
+    text-align: left;
+    font-size: 20px;
+}
+
+
+.heading{
+    font-size: 25px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
+
+
+.field-group {
+    margin-bottom: 15px;
+}
+
+
+
+footer {
+    margin-top: 20px;
+    font-size: 15px;
+    color: white;
+}
+
+
+.blue-text {
+    color: blue;
+}
